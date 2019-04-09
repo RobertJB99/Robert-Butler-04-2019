@@ -2,24 +2,23 @@
    display:block;
    margin-left:auto;
    margin-right:auto;
-   width:50%;
+   
   }
-@media all and (min-width: 480px) {
-	}
-	@media all and (min-width: 736px) { 
-	
-	}
-	@media all and (min-width: 980px) { 
-	 img.logo {
-	  width: 35%;
-	 }
-	}
-	@media all and (min-width: 1280px) { 
-	
-	}
-	@media all and (min-width: 1690px) { 
-	
-	}
+  @media all and (min-width: 991px) {  
+          img.logo{
+	    width: 35%;
+	  }
+   }
+  @media all and (max-width: 768px) {  
+         img.logo{
+	    width: 40%;
+	  }
+   }
+  @media all and (max-width: 480px) {  
+	  img.logo{
+	    width: 50%;
+	  }
+   }
 
 
 
