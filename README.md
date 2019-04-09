@@ -2,11 +2,11 @@
 <html>
 <body>
   <h3>Contact info<h3>
- 
- <p>Robert Butler</p>
- <p>417-437-1301</p>
- <p>rjakebutler99@gmail.com</p>
- 
+ <ul>
+   <li>Robert Butler</li>
+   <li>417-437-1301</li>
+   <li>rjakebutler99@gmail.com</li>
+ </ul>
  <h3>Personality Test</h3> 
  
  <p>Result in a 5</p>
