@@ -2,5 +2,6 @@
  display: block;
  padding: none;
  border: none;
- margin: auto;
+ margin-right: auto;
+ margin-left: auto;
 }
