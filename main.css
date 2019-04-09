@@ -9,7 +9,7 @@
 	    width: 35%;
 	  }
    }
-  @media all and (max-width: 768px) {  
+  @media all and (max-width: 990px and min-width: 481px) {  
          img.logo{
 	    width: 40%;
 	  }
