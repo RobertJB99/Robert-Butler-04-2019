@@ -1,6 +1,32 @@
-img.logo {
- display:block;
- margin-left:auto;
- margin-right:auto;
- width:50%;
+
+
+@media (max-width: 480px) {
+  img.logo {
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+   width:50%;
+  }
+ hr {
+   border: 0;
+   margin: none;
+ }
 }
+@media (max-width: 736px) { 
+
+}
+@media (max-width: 980px) { 
+ img.logo {
+  width: 35%;
+ }
+}
+@media (max-width: 1280px) { 
+
+}
+@media (max-width: 1690px) { 
+
+}
+
+
+
+
