@@ -9,22 +9,6 @@
    margin: none;
  }
 
-@media all and (min-width: 480px) {
-}
-@media all and (min-width: 736px) { 
-
-}
-@media all and (min-width: 980px) { 
- img.logo {
-  width: 35%;
- }
-}
-@media all and (min-width: 1280px) { 
-
-}
-@media all and (min-width: 1690px) { 
-
-}
 
 
 
