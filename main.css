@@ -2,8 +2,10 @@
    display:block;
    margin-left:auto;
    margin-right:auto;
-   
   }
+ .backgroundC {
+   background-color: grey;
+ }
   @media all and (min-width: 991px) {  
           img.logo{
 	    width: 35%;
