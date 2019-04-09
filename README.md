@@ -9,7 +9,7 @@
  </ul>
  <h3>Personality Test</h3> 
  
- <p>Result in a 5</p>
+ <p>Result: 5</p>
  
  <h3>Communication</h3>
  
