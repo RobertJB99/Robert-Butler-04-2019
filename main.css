@@ -6,21 +6,25 @@
  .card-header {
    background-color: grey;
  }
-  @media all and (max-width: 991px) {  
-          img.logo{
-	    width: 35%;
+  img.logo{
+	    width: 50%;
 	  }
+ @media all and (min-width: 480px) {  
+	 
    }
-  @media all and (max-width: 990px and min-width: 481px) {  
+ @media all and (min-width: 990px) {  
          img.logo{
 	    width: 40%;
 	  }
    }
-  @media all and (max-width: 480px) {  
-	  img.logo{
-	    width: 50%;
+
+@media all and (max-width: 991px) {  
+          img.logo{
+	    width: 35%;
 	  }
    }
+ 
+ 
 
 
 
