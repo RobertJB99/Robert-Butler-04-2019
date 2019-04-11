@@ -9,26 +9,37 @@
    color: black;	  
   }
  /* all things involving cards */
+
 .card-header {
    background-color: grey;
    height: 8rem;
  }
-  img.logo{
+ 
+img.logo{
 	    width: 80%;
 	  }
-  h1 {
+ 
+h1 {
     margin-left: 1.5rem;
   }
 
- .card {
+ 
+.card {
   border:none;
   display :inline-block;
 	  
   }
+
 .container {
   margin: 1rem 1.5rem;
 }
- @media (min-width: 575px) {  
+
+#contactCard {
+  margin: 0 auto;
+}
+ 
+
+@media (min-width: 575px) {  
 	 img.logo{
 	   width 65%;
 	 }
