@@ -16,14 +16,14 @@
   img.logo{
 	    width: 80%;
 	  }
-  #card1,
+/*  #card1,
   h1
   {
     margin-left: 1.5rem;
   }
   #card3 {
     margin-right: 1.5rem;
-  }
+  }*/
  .card {
   border:none;
   display :inline-block;
@@ -38,12 +38,12 @@
          img.logo{
 	    width: 45%;
 	  }
-	 #card3{
+	/* #card3{
 	  margin-left: 1.5rem;
 	 } 
 	 #card2{
 	  margin- right: 1.5rem;
-	 }
+	 }*/
   }
 
 @media (min-width: 991px) {  
