@@ -4,7 +4,8 @@
    margin-right:auto;
    padding-top: 1.25rem;
   }
- .card-header {
+ /* all things involving cards */
+.card-header {
    background-color: grey;
    height: 4 rem;
  }
@@ -19,7 +20,9 @@
   #card3 {
     margin-right: 1.5rem;
   }
-
+ .card {
+  border:none
+  }
  @media (min-width: 480px) {  
 	 img.logo{
 	   width 65%;
