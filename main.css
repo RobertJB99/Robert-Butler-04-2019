@@ -9,16 +9,16 @@
   img.logo{
 	    width: 50%;
 	  }
- @media all and (min-width: 480px) {  
+ @media only screen and (min-width: 480px) {  
 	 
    }
- @media all and (min-width: 990px) {  
+ @media only screen and (min-width: 990px) {  
          img.logo{
 	    width: 40%;
 	  }
    }
 
-@media all and (max-width: 991px) {  
+@media only screen and (max-width: 991px) {  
           img.logo{
 	    width: 35%;
 	  }
