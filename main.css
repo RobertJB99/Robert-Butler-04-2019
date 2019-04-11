@@ -19,7 +19,7 @@
 	  }
    }
 
-@media (max-width: 991px) {  
+@media (min-width: 991px) {  
           img.logo{
 	    width: 35%;
 	  }
