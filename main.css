@@ -25,6 +25,9 @@
   display :inline-block;
 	  
   }
+.container {
+  margin: 1rem 1.5rem;
+}
  @media (min-width: 575px) {  
 	 img.logo{
 	   width 65%;
