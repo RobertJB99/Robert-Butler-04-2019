@@ -4,6 +4,10 @@
    margin-right:auto;
    padding-top: 1.25rem;
   }
+  hr {
+   height: .25rem;
+   color: black;	  
+  }
  /* all things involving cards */
 .card-header {
    background-color: grey;
