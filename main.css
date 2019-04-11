@@ -5,6 +5,7 @@
   }
  .card-header {
    background-color: grey;
+   height: 1.5 rem;
  }
   img.logo{
 	    width: 50%;
