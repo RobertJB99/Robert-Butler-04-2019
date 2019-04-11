@@ -4,9 +4,9 @@
    margin-right:auto;
   }
  .card-header {
-   background-color: black;
+   background-color: grey;
  }
-  @media all and (min-width: 991px) {  
+  @media all and (max-width: 991px) {  
           img.logo{
 	    width: 35%;
 	  }
