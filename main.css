@@ -7,7 +7,7 @@
  /* all things involving cards */
 .card-header {
    background-color: grey;
-   height: 4 rem;
+   height: 4rem;
  }
   img.logo{
 	    width: 80%;
@@ -21,7 +21,9 @@
     margin-right: 1.5rem;
   }
  .card {
-  border:none
+  border:none;
+  display :inline-block;
+	  
   }
  @media (min-width: 480px) {  
 	 img.logo{
