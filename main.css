@@ -11,7 +11,7 @@
  /* all things involving cards */
 .card-header {
    background-color: grey;
-   height: 4rem;
+   height: 8rem;
  }
   img.logo{
 	    width: 80%;
@@ -29,16 +29,22 @@
   display :inline-block;
 	  
   }
- @media (min-width: 480px) {  
+ @media (min-width: 575px) {  
 	 img.logo{
 	   width 65%;
 	 }
    }
- @media (min-width: 990px) {  
+ @media (min-width: 768px) {  
          img.logo{
 	    width: 45%;
 	  }
-   }
+	 #card3{
+	  margin-left: 1.5rem;
+	 } 
+	 #card2{
+	  margin- right: 1.5rem;
+	 }
+  }
 
 @media (min-width: 991px) {  
           img.logo{
