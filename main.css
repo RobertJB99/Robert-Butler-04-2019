@@ -5,7 +5,6 @@
    padding-top: 1.25rem;
   }
   hr {
-   border: none;
    height: 5px;
    color: black;	  
   }
@@ -36,7 +35,8 @@ h1 {
 }
 
 #contactCard {
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
  
 
