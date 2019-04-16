@@ -55,6 +55,11 @@ h1 {
           img.logo{
 	    width: 35%;
 	  }
+	.card1,
+	.card2,
+	.card3 {
+	  width: 30%;
+	}
    }
  
  
