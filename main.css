@@ -6,13 +6,14 @@
   }
   hr {
    height: 5px;
-   color: black;	  
+   background-color: black;	  
   }
  /* all things involving cards */
 
 .card-header {
    background-color: grey;
    height: 8rem;
+   color: white;
  }
  
 img.logo{
