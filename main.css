@@ -59,7 +59,7 @@ h1 {
 	.card1,
 	.card2,
 	.card3 {
-	  width: 30%;
+	 margin: .5rem;
 	}
    }
  
