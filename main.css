@@ -68,6 +68,7 @@ width: 100%;
  text-color: red;
  text-align: right;
  text-size: small;
+ display: inline;
 }
 
 @media (min-width: 575px) {  
