@@ -55,6 +55,12 @@ background-color: grey;
 display: block;
 text-align: center;	
 }
+
+.redM {
+ text-color: red;
+ text-align: right;	
+}
+
 @media (min-width: 575px) {  
 	 img.logo{
 	   width 65%;
