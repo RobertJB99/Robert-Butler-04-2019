@@ -5,7 +5,7 @@
    padding-top: 1.25rem;
   }
   hr {
-   height: 5px;
+   height: 4px;
    background-color: black;	  
   }
  /* all things involving cards */
@@ -41,7 +41,15 @@ h1 {
   height: 10rem;
 }
  
+ /* all things involving forms */
 
+form {
+margin-left: auto;
+margin-right: auto;	
+}
+.formCard {
+background-color: grey;
+}
 @media (min-width: 575px) {  
 	 img.logo{
 	   width 65%;
