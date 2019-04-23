@@ -60,6 +60,9 @@ text-align: center;
  display: table;
  clear: both;	
 }
+input {
+width: 100%;
+}
 
 .redM {
  text-color: red;
