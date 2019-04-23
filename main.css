@@ -66,8 +66,7 @@ width: 100%;
 
 .redM {
  text-color: red;
- text-align: right;
- text-size: small;
+ text-size: .8rem;
  margin-left: auto;
 }
 
