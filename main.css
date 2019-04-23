@@ -42,7 +42,9 @@ h1 {
 }
  
  /* all things involving forms */
-
+form {
+  margin: 0 auto;
+}
 
 .formCard {
 background-color: grey;
