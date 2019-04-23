@@ -55,6 +55,11 @@ background-color: grey;
 display: block;
 text-align: center;	
 }
+.formCard::after {
+ content:"  ";
+ display: table;
+ clear: both;	
+}
 
 .redM {
  text-color: red;
