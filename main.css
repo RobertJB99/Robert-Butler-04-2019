@@ -44,6 +44,7 @@ h1 {
  /* all things involving forms */
 form {
   margin: 0 auto;
+  width: 40%;
 }
 
 .formCard {
