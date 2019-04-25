@@ -64,7 +64,7 @@ text-align: center;
  display: table;
  clear: both;	
 }
-textarea[name=message] {
+textarea {
 height: 125px;
 }
 input,
