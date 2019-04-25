@@ -64,10 +64,12 @@ text-align: center;
  display: table;
  clear: both;	
 }
-input[name=Message] {
+textarea[name=message] {
 height: 125px;
 }
-input {
+input,
+textarea
+{
 width: 100%;
 }
 
