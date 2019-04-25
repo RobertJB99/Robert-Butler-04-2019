@@ -16,6 +16,10 @@
    text-color: white;
    text-aling: center;
  }
+
+.card-body {
+  padding: 1.25rem 0;
+}
  
 img.logo{
 	    width: 80%;
