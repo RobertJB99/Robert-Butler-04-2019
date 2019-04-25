@@ -65,7 +65,7 @@ text-align: center;
  clear: both;	
 }
 input[name=Message] {
-height: 50px;
+height: 125px;
 }
 input {
 width: 100%;
