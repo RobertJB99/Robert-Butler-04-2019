@@ -60,6 +60,9 @@ text-align: center;
  display: table;
  clear: both;	
 }
+input[name=Message] {
+padding: 100% 60px;
+}
 input {
 width: 100%;
 }
@@ -74,6 +77,7 @@ h2 {
 text-align: center;
 color: white;	
 }
+
 
 @media (min-width: 575px) {  
 	 img.logo{
