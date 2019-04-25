@@ -29,7 +29,8 @@ h1 {
 .card {
   border:none;
   display :inline-block;
-	  
+  width: 25%;
+ 	
   }
 
 .container {
@@ -95,10 +96,13 @@ color: white;
           img.logo{
 	    width: 35%;
 	  }
-	.card1,
-	.card2,
+	
 	.card3 {
-	 margin: 1rem;
+	 padding-right: 0;
+	}
+	
+	.card1 {
+	 padding-left: 0;
 	}
    }
  
