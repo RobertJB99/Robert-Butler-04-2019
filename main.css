@@ -73,10 +73,19 @@ input
 width: 100%;
 }
 
+label {
+   vertical-align: bottom;
+     line-height: 25px;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
 .redM {
  color: red;
  font-size: 12px;
  float: right;
+ vertical-align: bottom;
+ line-height: 25px;
+ 
 }
 
 form>h2 {
