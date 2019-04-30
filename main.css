@@ -50,7 +50,10 @@ h1 {
   width: 100%;
   height: 10rem;
 }
- 
+ .javaScript {
+    margin-left: 5%;
+    margin-right: 5%;
+}
  /* all things involving forms */
 form {
   padding-top: 2rem; 
