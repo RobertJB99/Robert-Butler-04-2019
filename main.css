@@ -59,7 +59,15 @@ h1 {
     margin-right: 5%;
 }
 footer {
-
+    text-align: center;
+    background-color: black;
+    height: 3rem;
+     
+}
+footer>p {
+    margin-bottom: 0;
+    color: white;
+    line-height: 3rem;
 }
  /* all things involving forms */
 form {
