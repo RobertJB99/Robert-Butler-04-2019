@@ -6,7 +6,8 @@
   }
   hr {
    height: 4px;
-   background-color: black;	  
+   background-color: black;
+   margin-bottom: 0;	  
   }
  /* all things involving cards */
 
@@ -27,6 +28,9 @@ img.logo{
  
 h1 {
     margin-left: 5%;
+    padding-top: 3rem;
+    margin-bottom: 3rem;
+    font-size: 4rem;	
   }
 
  .card-footer{
@@ -53,6 +57,9 @@ h1 {
  .javaScript {
     margin-left: 5%;
     margin-right: 5%;
+}
+footer {
+
 }
  /* all things involving forms */
 form {
