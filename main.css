@@ -29,7 +29,11 @@ h1 {
     margin-left: 5%;
   }
 
- 
+ .card-footer{
+ border:none;   
+  background-color:inherit;
+  padding-left: 0; 
+}
 .card {
   border:none;
   display :inline-block;
@@ -49,17 +53,18 @@ h1 {
  
  /* all things involving forms */
 form {
-  margin-left: auto;
-  margin-right: auto;
+  padding-top: 2rem; 
   display: inline-block;
   text-align: left;		
   width: 35%;	
 }
 
+
 .formCard {
 background-color: grey;
 display: block;
-text-align: center;	
+text-align: center;
+eight:32rem; 	
 }
 .formCard::after {
  content:"  ";
@@ -92,7 +97,8 @@ label {
 
 form>h2 {
 text-align: center;
-color: white;	
+color: white;
+padding-bottom: 1.5rem;	
 }
 
 
