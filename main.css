@@ -97,7 +97,14 @@ input
 {
 width: 100%;
 }
-
+input[type=submit]{
+    width: 20%;
+    margin-top: 1.5rem;
+    height: 2.5rem;
+    background-color: black;
+    border: none;
+    color: white;
+}
 label {
    vertical-align: bottom;
      line-height: 25px;
