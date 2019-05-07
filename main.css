@@ -132,7 +132,7 @@ padding-bottom: 1.5rem;
     padding-left: 0;
 }
 
-@media (min-width: 35.94em) {  
+@media screen and (min-width: 35.94em) {  
 	 img.logo{
 	   width 65%;
 	 }
@@ -140,7 +140,7 @@ padding-bottom: 1.5rem;
 	  width: 90%;
 	}
 }
- @media (min-width: 48em) {  
+ @media screen and (min-width: 48em) {  
          img.logo{
 	    width: 45%;
 	  }
@@ -156,7 +156,7 @@ padding-bottom: 1.5rem;
      }
 }
 
-@media (min-width: 61.94em) {  
+@media screen and (min-width: 61.94em) {  
           img.logo{
 	    width: 35%;
 	  }
