@@ -125,7 +125,12 @@ text-align: center;
 color: white;
 padding-bottom: 1.5rem;	
 }
-
+#card1,
+#card2,
+#card3 {
+    padding-right: 0;
+    padding-left: 0;
+}
 
 @media (min-width: 575px) {  
 	 img.logo{
@@ -142,19 +147,28 @@ padding-bottom: 1.5rem;
 	form {
 	  width: 65%;
 	}
-  }
+
+#card2{
+    padding-right: 15px;
+}
+     #card3{
+         padding-left: 15px;
+     }
+}
 
 @media (min-width: 991px) {  
           img.logo{
 	    width: 35%;
 	  }
 	
-	#card3 {
-	 padding-right: 0;
+	#card3,
+    #card2 {
+	 padding-left:15px;
 	}
 	
-	#card1 {
-	 padding-left: 0;
+	#card1,
+    #card2 {
+	 padding-right: 15px;
 	}
 	form {
 	  width: 40%;
