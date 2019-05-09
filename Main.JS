@@ -1,3 +1,7 @@
+addEvent(
+    document.getElementById('list'),
+    'click',
+    function () {
 const object1 [
 {name:'Matt Johnson'},
 {name:'Bart Paden'},
@@ -26,3 +30,5 @@ for(var i=0; i< object2.length; i+=1){
     a=0;
     switch=1;
 }
+ }
+);
