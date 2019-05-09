@@ -2,14 +2,14 @@ addEvent(
     document.getElementById('list'),
     'click',
     function () {
-const object1 [
+var object1 [
 {name:'Matt Johnson'},
 {name:'Bart Paden'},
 {name:'Ryan Doss'},
 {name:'Michael Spangler'}
 ]
 
-const object2 [
+var object2 [
 {name:'Matt Johnson'},
 {name:'Bart Paden'},
 {name:'Jordan Heigle'},
