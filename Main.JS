@@ -20,15 +20,15 @@ for(var i=0; i< object2.length; i+=1){
   var a = 0;
   var change = 1;
   if(object1[a].name == object2[i].name){
-   switch=0;
-  }else if(object1[a].name != object2[i].name || a < object[a].length-1 || switch != 0 ){
+   change=0;
+  }else if( a < object1[a].length-1 && change != 0 ){
     a+=1;
   }else{
-    if (swithch = 1){
-    object1.push(object2[i+a].name);
+    if (change = 1){
+    object1.push(object2[i].name);
     }
     a=0;
-    switch=1;
+    change=1;
 }
  var output="<ul>";
         for (var i =0; i< object1.length; i+=1){
