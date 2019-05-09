@@ -30,5 +30,11 @@ for(var i=0; i< object2.length; i+=1){
     a=0;
     switch=1;
 }
- }
+ var output="<ul>";
+        for (var i =0; i< object1.length; i+=1){
+          output+= "<li>"+object1[i]+"</li>";
+        }
+     return(output+="</ul>");
+  }
+  
 );
