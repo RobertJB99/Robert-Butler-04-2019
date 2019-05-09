@@ -18,7 +18,7 @@ var object2 =[
 
 for(var i=0; i< object2.length; i+=1){
   var a = 0;
-  var switch = 1;
+  var change = 1;
   if(object1[a].name == object2[i].name){
    switch=0;
   }else if(object1[a].name != object2[i].name || a < object[a].length-1 || switch != 0 ){
