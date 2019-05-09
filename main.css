@@ -9,6 +9,14 @@
    background-color: black;
    margin-bottom: 0;	  
   }
+
+#list{
+  boarder: none;
+  background-color: inherit;
+  color: red;
+  padding: 0; 
+  margin-right: none;
+}
  /* all things involving cards */
 
 .card-header {
