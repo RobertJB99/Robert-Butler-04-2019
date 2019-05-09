@@ -7,14 +7,14 @@ var object1 [
 {name:'Bart Paden'},
 {name:'Ryan Doss'},
 {name:'Michael Spangler'}
-]
+];
 
 var object2 [
 {name:'Matt Johnson'},
 {name:'Bart Paden'},
 {name:'Jordan Heigle'},
 {name:'Tyler Viles'}
-]
+];
 
 for(var i=0; i< object2.length; i+=1){
   var a = 0;
