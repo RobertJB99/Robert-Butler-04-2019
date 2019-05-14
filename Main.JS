@@ -1,4 +1,21 @@
-
+    function formValidation(){
+        var x = document.forms["mainForm"]["Email"].value;
+  if (x == "") {
+    alert("Email must be provided");
+    return false;
+  }
+        var x = document.forms["mainForm"]["Subject"].value;
+  if (x == "") {
+    alert("Subject must be provided");
+    return false;
+  }
+        var x = document.forms["mainForm"]["message"].value;
+  if (x == "") {
+    alert("The message text area must have a message to be submitted");
+    return false;
+  }
+    
+    }
     function names(){
 var object1 =[
 {name:'Matt Johnson'},
@@ -28,11 +45,6 @@ for(var i =0; i< object2.length; i+=1){
   if(change==1){
     object1.push(object2[i])
   }
-
-   
- 
-
-  
 }
  var output="<ul>";
         for (var i =0; i< object1.length; i+=1){
