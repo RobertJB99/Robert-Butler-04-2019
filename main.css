@@ -17,11 +17,7 @@
   padding-right: 0; 
 }
  /* all things involving cards */
-#card3::after {
- content:"  ";
- display: table;
- clear: both;	
-}
+
 .card-header {
    background-color: grey;
    height: 8rem;
@@ -56,7 +52,7 @@ h1 {
  	
   }
 
-.card-group {
+.card-row{
   width: 90%;
   margin-left:auto;
   margin-right:auto;
