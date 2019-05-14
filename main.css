@@ -69,7 +69,7 @@ footer {
     text-align: center;
     background-color: black;
     height: 3rem;
-     
+    margin-top: auto;
 }
 footer>p {
     margin-bottom: 0;
