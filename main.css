@@ -17,7 +17,7 @@
   padding-right: 0; 
 }
  /* all things involving cards */
-#card1::after {
+#card3::after {
  content:"  ";
  display: table;
  clear: both;	
