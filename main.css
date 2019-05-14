@@ -55,7 +55,8 @@ h1 {
 .card-group {
   width: 90%;
   margin-left:auto;
-  margin-right:auto;	
+  margin-right:auto;
+  height: 50%;
 }
 
 #contactCard {
