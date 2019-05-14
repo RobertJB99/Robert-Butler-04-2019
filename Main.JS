@@ -25,7 +25,7 @@ function names()
 }else {
  alert("This has already been activated.")
 }
-
+}
 
 function namesOutput(){      
    var object1 =[
