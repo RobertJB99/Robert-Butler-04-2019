@@ -16,7 +16,7 @@
   }
     
     }
-var count:Boolean = false;
+var count= false;
 function names()
 {
  if(!count)
