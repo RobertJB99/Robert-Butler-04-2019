@@ -46,10 +46,11 @@ for(var i =0; i< object2.length; i+=1){
     object1.push(object2[i])
   }
 }
- var output="<ul>";
+ var output= document.getElementById("listLocation");
+        output += "<ul>";
         for (var i =0; i< object1.length; i+=1){
           output+= "<li>"+object1[i].name+"</li>";
         }
      output+="</ul>";
-  document.getElementById("listLocation").innerHTML = output;
+        document.getElementById("listLocation").innerHTML = output;
     }
