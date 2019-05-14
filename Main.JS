@@ -57,7 +57,7 @@ for(var i =0; i< object2.length; i+=1){
     object1.push(object2[i])
   }
 }
- var output= document.getElementById("listLocation").textContent;
+ var output= document.getElementById("listLocation").innerHTML;
         output += "<ul>";
         for (var i =0; i< object1.length; i+=1){
           output+= "<li>"+object1[i].name+"</li>";
