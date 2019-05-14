@@ -1,5 +1,5 @@
 
-    function names() {
+    function names(){
 var object1 =[
 {name:'Matt Johnson'},
 {name:'Bart Paden'},
