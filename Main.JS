@@ -16,8 +16,19 @@
   }
     
     }
-    function names(){
-var object1 =[
+var count:Boolean = false;
+function names()
+{
+ if(!count)
+  namesOutput();
+    count=true;
+}else {
+ alert("This has already been activated.")
+}
+
+
+function namesOutput(){      
+   var object1 =[
 {name:'Matt Johnson'},
 {name:'Bart Paden'},
 {name:'Ryan Doss'},
