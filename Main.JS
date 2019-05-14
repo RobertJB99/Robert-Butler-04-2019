@@ -19,7 +19,7 @@
 var count= false;
 function names()
 {
- if(!count)
+ if(!count){
   namesOutput();
     count=true;
 }else {
