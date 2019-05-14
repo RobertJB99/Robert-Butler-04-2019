@@ -1,7 +1,4 @@
-addEvent(
-    document.getElementById('list'),
-    'click',
-    function () {
+
 var object1 =[
 {name:'Matt Johnson'},
 {name:'Bart Paden'},
@@ -42,5 +39,4 @@ for(var i =0; i< object2.length; i+=1){
         }
      document.write(output+="</ul>");
   
-  
-);
+
