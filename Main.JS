@@ -38,6 +38,6 @@ for(var i =0; i< object2.length; i+=1){
         for (var i =0; i< object1.length; i+=1){
           output+= "<li>"+object1[i].name+"</li>";
         }
-     document.write(output+="</ul>");
-  
+     output+="</ul>";
+  document.getElementById("listLocation").innerHTML = output;
     }
