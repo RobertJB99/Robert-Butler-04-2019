@@ -84,6 +84,7 @@ form {
   display: inline-block;
   text-align: left;		
   padding-bottom: 3rem;	
+  width:95%;
 }
 
 
@@ -91,7 +92,7 @@ form {
 background-color: grey;
 display: block;
 text-align: center;
-eight:32rem; 	
+height:32rem; 	
 }
 .formCard::after {
  content:"  ";
