@@ -65,18 +65,7 @@ h1 {
  .javaScript {
     margin: 0 5% 11rem;
 }
-footer {
-    text-align: center;
-    background-color: black;
-    height: 3rem;
-    width: 100%;
-    bottom: 0px;
-}
-footer>p {
-    margin-bottom: 0;
-    color: white;
-    line-height: 3rem;
-}
+
  /* all things involving forms */
 form {
   padding-top: 3rem; 
@@ -147,6 +136,18 @@ padding-bottom: 1.5rem;
    form {
 	  width: 90%;
 	}
+footer {
+    text-align: center;
+    background-color: black;
+    height: 6rem;
+    width: 100%;
+    bottom: 0px;
+}
+footer>p {
+    margin-bottom: 0;
+    color: white;
+    line-height: 3rem;
+}
 }
  @media screen and (min-width: 48em) {  
          img.logo{
@@ -162,6 +163,14 @@ padding-bottom: 1.5rem;
      #card3{
          padding-left: 15px;
      }
+footer {
+    text-align: center;
+    background-color: black;
+    height: 3rem;
+    width: 100%;
+    bottom: 0px;
+}
+
 }
 
 @media screen and (min-width: 61.94em) {  
