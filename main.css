@@ -27,7 +27,7 @@
 
 .card-body {
   padding: 1.25rem 0;
-  height: 50%;
+  
 }
  
 img.logo{
@@ -52,11 +52,10 @@ h1 {
  	
   }
 
-.card-row{
+.card-group{
   width: 90%;
   margin-left:auto;
   margin-right:auto;
-  height: 55%;
 }
 
 #contactCard {
