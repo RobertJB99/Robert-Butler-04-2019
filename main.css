@@ -92,7 +92,8 @@ form {
 background-color: grey;
 display: block;
 text-align: center;
-height:32rem; 	
+height:32rem;
+margin-top: 1.5rem;
 }
 .formCard::after {
  content:"  ";
