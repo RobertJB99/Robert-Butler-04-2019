@@ -84,7 +84,7 @@ form {
   display: inline-block;
   text-align: left;		
   padding-bottom: 3rem;	
-  width:95%;
+  width:90%;
 }
 
 
@@ -147,9 +147,7 @@ padding-bottom: 1.5rem;
 	 img.logo{
 	   width 65%;
 	 }
-   form {
-	  width: 90%;
-	}
+  
 
 }
  @media screen and (min-width: 48em) {  
