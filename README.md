@@ -20,5 +20,6 @@
 <br>  Robert Butler</p>
   
  <h3> Code Test</h3>
+  <p>I tried to replicate everything to the best of my ability. The only thing I could not figure out was getting the cards footers to line up withought destroying the look of the page.</p>
 </body>
  </html>
